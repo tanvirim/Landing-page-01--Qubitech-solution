@@ -84,7 +84,7 @@ section div label {
     justify-content:center;
     align-items: center;
     width:40% ;
-    margin-left: 20px;
+    margin-left: 40px;
     margin-top: 17px;
     align-items: center;
     list-style: none;
@@ -93,7 +93,7 @@ section div label li {
    margin: 10px;
    background-color: white;
    border-radius:100% ;
-   padding: 10px 13px ;
+   padding: 15px 18px ;
 }
 .supercharge {
     font-style: italic ;
