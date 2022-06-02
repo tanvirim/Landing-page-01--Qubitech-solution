@@ -80,16 +80,20 @@ section button{
     padding: 10px 25px;
 }
 section div label {
-    justify-content:space-between;
-    width: 48%;
+    /* outline: 2px solid red; */
+    justify-content:center;
     align-items: center;
-    margin-top: 2rem;
+    width:40% ;
+    margin-left: 20px;
+    margin-top: 17px;
+    align-items: center;
     list-style: none;
 }
 section div label li {
-   padding: 6px 9px;
+   margin: 10px;
    background-color: white;
-   border-radius: 120px;
+   border-radius:100% ;
+   padding: 10px 13px ;
 }
 .supercharge {
     font-style: italic ;
